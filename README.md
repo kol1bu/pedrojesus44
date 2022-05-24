@@ -8,14 +8,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrojesus44&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Php" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
   <img align="right" alt="Anime-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/oda0RMrpJlcAAAAM/anime-sip.gif">
 </div>
   
   ## Parceiros:
   
-- <a href="https://github.com/pedrojesus44">Pedro</a>👨
+- <a href="https://github.com/nicolas-oliiveira">Nicolas</a>👨
 - <a href="https://github.com/LucasSouzaBorges">Lucas</a>👨
 - <a href="https://github.com/miguelvent">Vent</a>👨
   
