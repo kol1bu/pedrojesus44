@@ -11,7 +11,7 @@
   <img align="center" alt="Js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kotlin" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
+  <img align="center" alt="Kotlin" height="30" width="40" <img src="https://c.tenor.com/BLGdy1AswS8AAAAM/komi-komi-san.gif" />
   <img align="right" alt="Anime-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/oda0RMrpJlcAAAAM/anime-sip.gif">
 </div>
   
