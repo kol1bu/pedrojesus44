@@ -12,6 +12,13 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Anime-gif" height="150" style="border-radius:50px;" src="https://c.tenor.com/oda0RMrpJlcAAAAM/anime-sip.gif">
 </div>
+  
+  ## Parceiros:
+  
+- <a href="https://github.com/pedrojesus44">Pedro</a>👨
+- <a href="https://github.com/LucasSouzaBorges">Lucas</a>👨
+- <a href="https://github.com/miguelvent">Vent</a>👨
+  
 
   ##
  
