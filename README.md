@@ -36,4 +36,6 @@
  
   ![Snake animation](https://github.com/pedrojesus44/pedrojesus44/blob/output/github-contribution-grid-snake.svg)
  
+  ![](https://visitor-badge.glitch.me/badge?page_id=pedrojesus44)
+    
 </div>
