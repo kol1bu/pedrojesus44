@@ -1,7 +1,7 @@
 ### Opa, tudo bem? Seja muito bem-vindo ao meu perfil! 👋
 
 - Estudante
-- Cursando Desenvolvimento de Sistemas (2/3)
+- Cursando Desenvolvimento de Sistemas (3/3)
 <div align ="center">
   <a href="https://github.com/pedrojesus44">
 <img src="https://64.media.tumblr.com/8c3287c2910d388f767ded1c72dc4799/03d21c7b94fb9415-ff/s540x810/b0b579b3145125a05ada4533e5cb878aedb63828.gif" height="470em">
