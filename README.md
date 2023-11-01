@@ -19,15 +19,6 @@
   <img align="center" alt="PHP" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="PHP" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-  
-  ## Parceiros:
-  
-- <a href="https://github.com/nicolas-oliiveira">Nicolas</a>👨
-- <a href="https://github.com/LucasSouzaBorges">Lucas</a>👨
-- <a href="https://github.com/miguelvent">Vent</a>👨
-  
-
-  ##
  
 <div align="center"> 
   <a href="https://www.youtube.com/c/Kolibu" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
