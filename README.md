@@ -14,7 +14,7 @@
 </div>
 <div style="text-align: center;">
   <div style="display: inline_block;"><br>
-    - Tecnologias em que tenho conhecimento: 
+    ###- Tecnologias em que tenho conhecimento: 
     <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Js" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
