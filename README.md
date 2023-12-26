@@ -1,7 +1,7 @@
 ### Opa, tudo bem? Seja muito bem-vindo ao meu perfil! 👋
 
 - Estudante
-- Cursando Desenvolvimento de Sistemas (3/3)
+- Técnico em Desenvolvimento de Sistemas
 <div align ="center">
   <a href="https://github.com/pedrojesus44">
 <img src="https://media.tenor.com/QWZAInP_zn4AAAAC/the-breakfast-club-brian-johnson.gif" height="470em">
