@@ -2,6 +2,7 @@
 
 - Estudante
 - Técnico em Desenvolvimento de Sistemas
+- Cursando Análise e Desenvolvimento de Sistemas (1/4)
 <div align ="center">
   <a href="https://github.com/pedrojesus44">
 <img src="https://media.tenor.com/QWZAInP_zn4AAAAC/the-breakfast-club-brian-johnson.gif" height="470em">
